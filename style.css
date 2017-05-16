@@ -199,8 +199,8 @@ h2{
     margin:0 auto;
 }
 .box_second_image li{
-    float: left;
     display: inline-block;
+    vertical-align: top;
     padding: 0 40px 0 40px;
     max-width: 150px;
     text-align: center;
